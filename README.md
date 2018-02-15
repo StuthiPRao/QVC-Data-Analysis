@@ -3,6 +3,12 @@ Performed Statistical Analysis and implemented data mining techniques on large b
 
 
 Dataset has 6 tables, with 4.7+ million records after joining relevant tables.
+Dataset comprised of following data:
+1) Product data
+2) Customer Information
+3) Order data
+4) Social Media Reviews
+5) Campaign data
 
 Questions:
 
